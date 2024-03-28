@@ -4,7 +4,7 @@
 
 - 一个热爱网络安全的小白 :zap::zap::zap:
 - 欢迎一起交流ಠ_ಠ  :beers::beers:
-- Wechat: _Kail-Linux_
+- WechatID:  \_Kail-Linux_
 
   <img src="./xiaoyaoj.jpg" width="100px" />
 
