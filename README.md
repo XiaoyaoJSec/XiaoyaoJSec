@@ -6,5 +6,4 @@
 - 欢迎一起交流ಠ_ಠ  :beers::beers:
 - WechatID:  \_Kali-Linux_
 
-  <img src="./xiaoyaoj.jpg" width="100px" />
 
